@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4LrCtzAz33DEWNHoVq9Duhk7SZ1EsYWIgKN7/txqz3yQ1ezrTFxguAsHVeEN2MuMvm00aKr7k+0TkFxWLozbOQ==",
+  "dgSpecHash": "QInF+VVdsLiHUMN6zIScvLUo7QTVbJOafAKzfy8JRZdjQ3L8n8Q+luyB97OmRWLBR9QMuY1yj87nVQRBLQFlmA==",
   "success": true,
-  "projectFilePath": "D:\\Facu\\Net\\TP2\\NetTP2\\TP2\\Bussines.Logic\\Business.Logic.csproj",
+  "projectFilePath": "D:\\Facu\\Net\\TP2\\NetTP2\\TP2\\Business.Logic\\Business.Logic.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

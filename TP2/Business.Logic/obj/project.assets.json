@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Facu\\Net\\TP2\\NetTP2\\TP2\\Bussines.Logic\\Business.Logic.csproj",
+      "projectUniqueName": "D:\\Facu\\Net\\TP2\\NetTP2\\TP2\\Business.Logic\\Business.Logic.csproj",
       "projectName": "Business.Logic",
-      "projectPath": "D:\\Facu\\Net\\TP2\\NetTP2\\TP2\\Bussines.Logic\\Business.Logic.csproj",
+      "projectPath": "D:\\Facu\\Net\\TP2\\NetTP2\\TP2\\Business.Logic\\Business.Logic.csproj",
       "packagesPath": "C:\\Users\\Rukazu\\.nuget\\packages\\",
-      "outputPath": "D:\\Facu\\Net\\TP2\\NetTP2\\TP2\\Bussines.Logic\\obj\\",
+      "outputPath": "D:\\Facu\\Net\\TP2\\NetTP2\\TP2\\Business.Logic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
