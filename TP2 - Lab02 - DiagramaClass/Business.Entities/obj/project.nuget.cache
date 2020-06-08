@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZqbcOpoY7V6Ju4I5XG4M/+iBsFvtCZulpQduEDOc9T43/HFi8tlCDelggmAaXE8+IheMGtSkS3vmRXOjsIfXAQ==",
+  "success": true,
+  "projectFilePath": "D:\\Facu\\Net\\TP2 - DiagramaClass\\NetTP2\\TP2\\Business.Entities\\Business.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
