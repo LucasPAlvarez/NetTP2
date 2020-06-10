@@ -1,0 +1,14 @@
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\bin\Debug\UI.Desktop.exe
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\bin\Debug\UI.Desktop.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\bin\Debug\Business.Entities.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\bin\Debug\Business.Logic.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\bin\Debug\Business.Entities.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\bin\Debug\Business.Logic.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\obj\Debug\UI.Desktop.exe
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\UI.Desktop\obj\Debug\UI.Desktop.pdb
