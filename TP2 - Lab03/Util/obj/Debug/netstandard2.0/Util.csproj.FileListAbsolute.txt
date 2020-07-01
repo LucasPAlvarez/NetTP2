@@ -1,9 +1,0 @@
-D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\Util\bin\Debug\netstandard2.0\Util.deps.json
-D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\Util\bin\Debug\netstandard2.0\Util.dll
-D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\Util\bin\Debug\netstandard2.0\Util.pdb
-D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\Util\obj\Debug\netstandard2.0\Util.csprojAssemblyReference.cache
-D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\Util\obj\Debug\netstandard2.0\Util.AssemblyInfoInputs.cache
-D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\Util\obj\Debug\netstandard2.0\Util.AssemblyInfo.cs
-D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\Util\obj\Debug\netstandard2.0\Util.csproj.CoreCompileInputs.cache
-D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\Util\obj\Debug\netstandard2.0\Util.dll
-D:\Facu\Net\TP2\NetTP2\TP2 - Lab03\Util\obj\Debug\netstandard2.0\Util.pdb

@@ -1,0 +1,6 @@
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Util\bin\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Util\bin\Debug\Util.pdb
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Util\obj\Debug\Util.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Util\obj\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Util\obj\Debug\Util.pdb

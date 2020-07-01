@@ -1,0 +1,2 @@
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Consola\obj\Debug\UI.Consola.csprojAssemblyReference.cache
