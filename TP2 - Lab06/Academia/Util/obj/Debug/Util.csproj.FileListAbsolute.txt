@@ -1,0 +1,38 @@
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Util\bin\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Util\bin\Debug\Util.pdb
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Util\obj\Debug\Util.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Util\obj\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Util\obj\Debug\Util.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\Util\bin\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\Util\bin\Debug\Util.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\Util\obj\Debug\Util.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\Util\obj\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\Util\obj\Debug\Util.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\bin\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\bin\Debug\Util.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\obj\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\obj\Debug\Util.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\bin\Debug\Business.Entities.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\bin\Debug\Business.Logic.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\bin\Debug\Data.Database.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\bin\Debug\Business.Entities.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\bin\Debug\Business.Logic.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\bin\Debug\Data.Database.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\obj\Debug\Util.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Util\obj\Debug\Util.csproj.CopyComplete
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\bin\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\bin\Debug\Util.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\bin\Debug\Business.Entities.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\bin\Debug\Business.Logic.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\bin\Debug\Data.Database.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\bin\Debug\Business.Entities.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\bin\Debug\Business.Logic.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\bin\Debug\Data.Database.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\obj\Debug\Util.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\obj\Debug\Util.csproj.CopyComplete
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\obj\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\Util\obj\Debug\Util.pdb

@@ -1,0 +1,9 @@
+D:\Facu\Net\TP2\Data.Database\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\Data.Database\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\Data.Database\Data.Database\bin\Debug\Data.Database.dll
+D:\Facu\Net\TP2\Data.Database\Data.Database\bin\Debug\Data.Database.pdb
+D:\Facu\Net\TP2\Data.Database\Data.Database\bin\Debug\Business.Entities.dll
+D:\Facu\Net\TP2\Data.Database\Data.Database\bin\Debug\Business.Entities.pdb
+D:\Facu\Net\TP2\Data.Database\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+D:\Facu\Net\TP2\Data.Database\Data.Database\obj\Debug\Data.Database.dll
+D:\Facu\Net\TP2\Data.Database\Data.Database\obj\Debug\Data.Database.pdb

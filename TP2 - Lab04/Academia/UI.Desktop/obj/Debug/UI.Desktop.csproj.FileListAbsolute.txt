@@ -1,0 +1,36 @@
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\bin\Debug\UI.Desktop.exe
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\bin\Debug\UI.Desktop.pdb
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\bin\Debug\Business.Entities.dll
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\bin\Debug\Business.Logic.dll
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\bin\Debug\Data.Database.dll
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\bin\Debug\Business.Entities.pdb
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\bin\Debug\Business.Logic.pdb
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\bin\Debug\Data.Database.pdb
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.exe
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Desktop\obj\Debug\UI.Desktop.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\obj\Debug\UI.Desktop.exe
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\obj\Debug\UI.Desktop.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\bin\Debug\UI.Desktop.exe
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\bin\Debug\UI.Desktop.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\bin\Debug\Business.Entities.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\bin\Debug\Business.Logic.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\bin\Debug\Data.Database.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\bin\Debug\Business.Entities.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\bin\Debug\Business.Logic.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\bin\Debug\Data.Database.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\bin\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Desktop\bin\Debug\Util.pdb

@@ -1,0 +1,34 @@
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\UI.Consola\obj\Debug\UI.Consola.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\obj\Debug\UI.Consola.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\bin\Debug\UI.Consola.exe.config
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\bin\Debug\UI.Consola.exe
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\bin\Debug\UI.Consola.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\bin\Debug\Business.Entities.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\bin\Debug\Business.Logic.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\bin\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\bin\Debug\Data.Database.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\bin\Debug\Business.Entities.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\bin\Debug\Business.Logic.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\bin\Debug\Util.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\bin\Debug\Data.Database.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\obj\Debug\UI.Consola.csproj.CopyComplete
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\obj\Debug\UI.Consola.exe
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab04\Academia\UI.Consola\obj\Debug\UI.Consola.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\obj\Debug\UI.Consola.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\obj\Debug\UI.Consola.exe
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\obj\Debug\UI.Consola.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\bin\Debug\UI.Consola.exe.config
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\bin\Debug\UI.Consola.exe
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\bin\Debug\UI.Consola.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\bin\Debug\Business.Entities.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\bin\Debug\Business.Logic.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\bin\Debug\Util.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\bin\Debug\Data.Database.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\bin\Debug\Business.Entities.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\bin\Debug\Business.Logic.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\bin\Debug\Util.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\bin\Debug\Data.Database.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\UI.Consola\obj\Debug\UI.Consola.csproj.CopyComplete

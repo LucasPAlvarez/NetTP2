@@ -1,0 +1,10 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Business.Entities;
+using Data.Database;
+
+namespace Business.Logic {
+    public class BusinessLogic {
+    }
+}

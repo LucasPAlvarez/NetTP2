@@ -1,0 +1,12 @@
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Business.Entities\bin\Debug\Business.Entities.dll
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Business.Entities\bin\Debug\Business.Entities.pdb
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Business.Entities\obj\Debug\Business.Entities.csprojAssemblyReference.cache
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Business.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Business.Entities\obj\Debug\Business.Entities.dll
+D:\Facu\Net\TP2\NetTP2\TP2\Academia\Business.Entities\obj\Debug\Business.Entities.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Business.Entities\bin\Debug\Business.Entities.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Business.Entities\bin\Debug\Business.Entities.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Business.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Business.Entities\obj\Debug\Business.Entities.dll
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Business.Entities\obj\Debug\Business.Entities.pdb
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab05\Academia\Business.Entities\obj\Debug\Business.Entities.csprojAssemblyReference.cache
