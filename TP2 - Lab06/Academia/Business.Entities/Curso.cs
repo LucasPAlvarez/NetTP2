@@ -30,6 +30,10 @@ namespace Business.Entities {
             get { return _idMateria; }
             set { _idMateria = value; }
         }
+
+        public override string ToString() {
+            return AnioCalendario.ToString();
+        }
     }
     
 }

@@ -102,3 +102,6 @@ D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\UI.Desktop\obj\Debug\UI.Desktop.pdb
 D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\UI.Desktop\obj\Debug\UI.Desktop.PersonasList.resources
 D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\UI.Desktop\obj\Debug\UI.Desktop.InscripcionMateriaList.resources
 D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\UI.Desktop\obj\Debug\UI.Desktop.InscripcionMateriaNueva.resources
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\UI.Desktop\obj\Debug\UI.Desktop.RegistrarNotasAlumnosLista.resources
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\UI.Desktop\obj\Debug\UI.Desktop.RegistrarNotasLista.resources
+D:\Facu\Net\TP2\NetTP2\TP2 - Lab06\Academia\UI.Desktop\obj\Debug\UI.Desktop.RegistrarNotasModificacion.resources

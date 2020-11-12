@@ -136,6 +136,24 @@
     <Compile Include="PersonasList.Designer.cs">
       <DependentUpon>PersonasList.cs</DependentUpon>
     </Compile>
+    <Compile Include="RegistrarNotasAlumnosLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarNotasAlumnosLista.Designer.cs">
+      <DependentUpon>RegistrarNotasAlumnosLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarNotasLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarNotasLista.Designer.cs">
+      <DependentUpon>RegistrarNotasLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarNotasModificacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarNotasModificacion.Designer.cs">
+      <DependentUpon>RegistrarNotasModificacion.cs</DependentUpon>
+    </Compile>
     <Compile Include="UsuarioLogIn.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -194,6 +212,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="PersonasList.resx">
       <DependentUpon>PersonasList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarNotasAlumnosLista.resx">
+      <DependentUpon>RegistrarNotasAlumnosLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarNotasLista.resx">
+      <DependentUpon>RegistrarNotasLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarNotasModificacion.resx">
+      <DependentUpon>RegistrarNotasModificacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UsuarioLogIn.resx">
       <DependentUpon>UsuarioLogIn.cs</DependentUpon>

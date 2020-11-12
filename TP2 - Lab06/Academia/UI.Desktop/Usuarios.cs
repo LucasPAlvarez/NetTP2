@@ -337,7 +337,7 @@ namespace UI.Desktop {
 
         private void tsbEditar_Click(object sender, EventArgs e) {
             if (dgvUsuarios.SelectedRows.Count > 0) {
-                int ID = ((Usuario)dgvUsuarios.SelectedRows[0].DataBoundItem).ID;
+                int ID = ((DataRowView)dgvUsuarios.SelectedRows[0].DataBoundItem).Row.Field<int>("id_usuario");
 
                 UsuarioDesktop ud = new UsuarioDesktop(ID, ModoForm.Modificacion);
                 ud.ShowDialog();
